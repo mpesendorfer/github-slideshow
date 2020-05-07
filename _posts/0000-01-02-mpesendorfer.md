@@ -1,2 +1,5 @@
-#committing some code
-2+3
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+monkeys rule
